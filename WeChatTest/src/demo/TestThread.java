@@ -7,4 +7,7 @@ public class TestThread {
 		thread.start();
 	}
 	
+	public static void add() {
+	}
+	
 }
